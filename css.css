@@ -1,0 +1,37 @@
+h1{
+    font-family: 'Grenze Gotisch', cursive;
+    font-size: 60px;
+    color: deeppink;
+    text-decoration: underline;
+text-decoration-color: floralwhite;
+}
+body{
+   text-align: center;
+background: lightpink; 
+}
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 30px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+    
+.links:hover{
+    font-size: 45px;
+    color: deeppink;
+    background-color: aqua;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
+#mypic{
+    width:950px;
+}
